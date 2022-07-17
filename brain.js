@@ -270,7 +270,7 @@ break
 ━━━━『💻Utils💻』━━━━
 ❐ google, image, meme, subreddit, tourl, img, iguser, gif, sticker, take, pinterest, carbon
 
- 🎐 𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝙗𝙮 𝘼𝙧𝙪𝙨 🎐`			     
+ 🎐 Powerd By Xofiy 🎐`			     
 const hhbut = [
 {buttonId: '=info', buttonText: {displayText: '📥Info'}, type: 1},
 {buttonId: '=profile', buttonText: {displayText: '⭐Profile'}, type: 1}
