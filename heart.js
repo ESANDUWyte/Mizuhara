@@ -128,7 +128,7 @@ async function startArus() {
     if (auth_row_count != 0) {
         state.creds = cred.creds;
     }
-    CFonts.say('MIZUHARA\nBY\nARUS', {
+    CFonts.say('XOFIYX\nBY\nINDUMINA', {
         font: 'block',
         align: 'center',
         gradient: ['blue', 'magenta']
